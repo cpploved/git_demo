@@ -1,4 +1,5 @@
 git hub
 有梯子吗
+ssh 测试push::wq
 git git github
 ssh ssh ssh免密
